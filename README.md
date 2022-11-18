@@ -13,6 +13,12 @@ Use the Package Manager and use Add package from git URL, using any of the follo
 ## The Packages  
 Most packages come with samples demonstrating functionality and providing a starting point for further development.
 
+### Assets (Required Installation)
+[Shared Sample Assets](https://github.com/qhenshaw/SharedSampleAssets): A collection of shared assets used in the following packages.
+```
+https://github.com/qhenshaw/SharedSampleAssets.git
+```
+
 ### Engine Features
 [Game Events](https://github.com/qhenshaw/GameEvents): A scriptable object based inspector editable event system useful for decoupling prefabs across scenes.
 ```
