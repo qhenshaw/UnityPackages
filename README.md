@@ -10,14 +10,14 @@ Unity 2021.3+. Will likely work on earlier versions but this is the version I te
 ## Installation
 Use the Package Manager and use Add package from git URL, using any of the following .git URLs. Some packages have dependencies, check the documentation.
 
-## Engine Features
+## The Packages  
+Most packages come with samples demonstrating functionality and providing a starting point for further development.
+
+### Engine Features
 [Game Events](https://github.com/qhenshaw/GameEvents): A scriptable object based inspector editable event system useful for decoupling prefabs across scenes.
 ```
 https://github.com/qhenshaw/GameEvents.git
 ```
-
-## The Packages  
-Most packages come with samples demonstrating functionality and providing a starting point for further development.
 
 ### Interface
 [UI Components](https://github.com/qhenshaw/UIComponents): A collection of useful UI components with a functional main menu / gameplay sample scenes.
