@@ -19,7 +19,13 @@ Most packages come with samples demonstrating functionality and providing a star
 https://github.com/qhenshaw/SharedSampleAssets.git
 ```
 
-### Engine Features
+### Editor
+[Editor Tools](https://github.com/qhenshaw/EditorTools): A collection of useful editor tools focused on organization, level design, and lighting.
+```
+https://github.com/qhenshaw/EditorTools.git
+```
+
+### Scripting Systems
 [Game Events](https://github.com/qhenshaw/GameEvents): A scriptable object based inspector editable event system useful for decoupling prefabs across scenes.
 ```
 https://github.com/qhenshaw/GameEvents.git
@@ -31,13 +37,12 @@ https://github.com/qhenshaw/GameEvents.git
 https://github.com/qhenshaw/UIComponents.git
 ```
 
-### Movement
+### Gameplay
 [Character Movement](https://github.com/qhenshaw/CharacterMovement): 3D and 2D movement components with sample scenes for a variety of movement setups.
 ```
 https://github.com/qhenshaw/CharacterMovement.git
 ```
 
-### Gameplay
 [Local Multiplayer](https://github.com/qhenshaw/LocalMultiplayer): A functional local multiplayer setup with a player join screen. Uses CharacterMovement and GameEvents packages.
 ```
 https://github.com/qhenshaw/LocalMultiplayer.git
@@ -47,4 +52,10 @@ https://github.com/qhenshaw/LocalMultiplayer.git
 [Renderer Features](https://github.com/qhenshaw/RendererFeatures): A collection of URP renderer features.
 ```
 https://github.com/qhenshaw/RendererFeatures.git
+```
+
+### Audio
+[FMOD Extensions](https://github.com/qhenshaw/FMODExtensions): A collection of scripts useful for playing FMOD audio in Unity.
+```
+https://github.com/qhenshaw/FMODExtensions.git
 ```
