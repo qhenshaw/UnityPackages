@@ -5,7 +5,7 @@ This is a meta repo documenting all of the Unity packages I'm maintaining.
 
 ## System Requirements
 Unity 2021.3+. Will likely work on earlier versions but this is the version I tested with.  
-`Requires URP - DOES NOT support built-in/HDRP out of the box.`
+Most packages are URP/HDRP agnostic, aside from anything in the rendering section. You may have to fix some materials in the SharedSampleAssets.
 
 ## Installation
 Use the Package Manager and use Add package from git URL, using any of the following .git URLs. Some packages have dependencies, check the documentation.
@@ -30,6 +30,7 @@ https://github.com/qhenshaw/EditorTools.git
 ```
 https://github.com/qhenshaw/GameEvents.git
 ```
+
 
 ### Interface
 [UI Components](https://github.com/qhenshaw/UIComponents): A collection of useful UI components with a functional main menu / gameplay sample scenes.
@@ -58,4 +59,16 @@ https://github.com/qhenshaw/RendererFeatures.git
 [FMOD Extensions](https://github.com/qhenshaw/FMODExtensions): A collection of scripts useful for playing FMOD audio in Unity.
 ```
 https://github.com/qhenshaw/FMODExtensions.git
+```
+
+### Debugging
+[Debug Menu](https://github.com/qhenshaw/DebugMenu): An extensible debug menu.
+```
+https://github.com/qhenshaw/DebugMenu.git
+```
+
+### Performance
+[Object Pooling](https://github.com/qhenshaw/ObjectPooling): A lazy initialized object pooling system built on Unity's Pooling collections.
+```
+https://github.com/qhenshaw/ObjectPooling.git
 ```
