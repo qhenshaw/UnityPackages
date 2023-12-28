@@ -41,3 +41,4 @@ Most packages come with samples demonstrating functionality and providing a star
 
 ### Performance
 [Object Pooling](https://github.com/qhenshaw/ObjectPooling): A lazy initialized object pooling system built on Unity's Pooling collections.  
+[HLOD System](https://github.com/qhenshaw/HLODSystem): A fork of the Unity HLOD package with the mesh UnityMeshSimplifier scripts added to avoid Git sub-modules.
